@@ -1,4 +1,3 @@
-// Contenuto del file postsData.js
 const posts = [
   {
     title: 'Ciambellona',
